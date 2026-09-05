@@ -8,6 +8,6 @@ Static, responsive website. Open index.html or serve with `python3 -m http.serve
 
 Business source: https://linktr.ee/citypro
 
-Imagery: see ASSET-SOURCES.json. Arabic-site images are explicitly labelled as illustrative stock; Dubai images come from each salon public profile. Confirm owner/image permissions before official use.
+Imagery: see ASSET-SOURCES.json. Riyadh images are explicitly labelled as illustrative stock; Dubai images come from each salon public profile. Dubai sites have English (index.html) and Arabic (ar.html) versions with a visible language switch. Confirm owner/image permissions before official use.
 
 Design: city. Locally bundled fonts and images. No external CDN dependencies.
